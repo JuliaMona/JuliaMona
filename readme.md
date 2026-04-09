@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JuliaMona/JuliaMona/main/banner.png" />
+</p>
 # 👋 Hi, I'm Julia Monakhova
 
 Email / Web Designer & Developer  
